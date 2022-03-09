@@ -1,14 +1,15 @@
 {
   "name": "node-minecraft-launcher",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "A fast Minecraft launcher written in Node.JS with no large dependencies.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Allink",
   "license": "ISC",
+  "repository": {"type": "git", "url": "git://github.com/business-goose/node-minecraft-launcher.git"},
   "dependencies": {
     "fs-extra": "^10.0.1",
     "status-bar": "^2.0.3",
