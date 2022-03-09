@@ -4,7 +4,7 @@ Yes, you do need Java installed.
 
 ## Installation
 ```
-npm i
+npm i node-minecraft-launcher
 ```
 
 ## Running
