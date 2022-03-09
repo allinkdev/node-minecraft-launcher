@@ -7,6 +7,6 @@ npm i
 ```
 
 ## Running
-``
+```
 node . <ver> [username] [javaPath]
-``
+```
